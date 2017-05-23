@@ -1,0 +1,6 @@
+C:\Users\Tapas\Documents\GitHub\ProjLocalFunction\ProjLocalFunction\ComputerVisionAPI\obj\Debug\ComputerVisionAPI.csprojResolveAssemblyReference.cache
+C:\Users\Tapas\Documents\GitHub\ProjLocalFunction\ProjLocalFunction\ComputerVisionAPI\bin\Debug\ComputerVisionAPI.exe.config
+C:\Users\Tapas\Documents\GitHub\ProjLocalFunction\ProjLocalFunction\ComputerVisionAPI\bin\Debug\ComputerVisionAPI.exe
+C:\Users\Tapas\Documents\GitHub\ProjLocalFunction\ProjLocalFunction\ComputerVisionAPI\bin\Debug\ComputerVisionAPI.pdb
+C:\Users\Tapas\Documents\GitHub\ProjLocalFunction\ProjLocalFunction\ComputerVisionAPI\obj\Debug\ComputerVisionAPI.exe
+C:\Users\Tapas\Documents\GitHub\ProjLocalFunction\ProjLocalFunction\ComputerVisionAPI\obj\Debug\ComputerVisionAPI.pdb
